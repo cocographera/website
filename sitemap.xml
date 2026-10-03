@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>__SITE_URL__/</loc>
-    <xhtml:link rel="alternate" hreflang="sq" href="__SITE_URL__/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="__SITE_URL__/it/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="__SITE_URL__/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="__SITE_URL__/"/>
+    <loc>https://cocographera.com/</loc>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://cocographera.com/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cocographera.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cocographera.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cocographera.com/"/>
   </url>
   <url>
-    <loc>__SITE_URL__/it/</loc>
-    <xhtml:link rel="alternate" hreflang="sq" href="__SITE_URL__/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="__SITE_URL__/it/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="__SITE_URL__/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="__SITE_URL__/"/>
+    <loc>https://cocographera.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://cocographera.com/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cocographera.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cocographera.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cocographera.com/"/>
   </url>
   <url>
-    <loc>__SITE_URL__/en/</loc>
-    <xhtml:link rel="alternate" hreflang="sq" href="__SITE_URL__/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="__SITE_URL__/it/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="__SITE_URL__/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="__SITE_URL__/"/>
+    <loc>https://cocographera.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://cocographera.com/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cocographera.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cocographera.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cocographera.com/"/>
   </url>
 </urlset>

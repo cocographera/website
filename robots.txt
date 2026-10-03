@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /data/
-Sitemap: __SITE_URL__/sitemap.xml
+Sitemap: https://cocographera.com/sitemap.xml
