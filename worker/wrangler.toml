@@ -2,6 +2,9 @@ name = "cocographera-api"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
+# Abilita l'URL predefinito *.workers.dev (es. https://cocographera-api.cocographera.workers.dev)
+workers_dev = true
+
 # Dopo aver creato il namespace KV con:
 #   npx wrangler kv namespace create DATA
 # incolla qui sotto l'id che ti restituisce il comando.
@@ -11,3 +14,8 @@ kv_namespaces = [
 
 # ADMIN_PASSWORD e TOKEN_SECRET NON vanno scritti qui: sono segreti,
 # si impostano con `wrangler secret put NOME` (vedi README_DEPLOY.md).
+
+# Se in futuro vuoi associare un dominio/sottodominio personalizzato specifico:
+ routes = [
+   { pattern = "cocographera-api.cocographera.workers.dev/*", zone_name = "workers.dev" }
+ ]
