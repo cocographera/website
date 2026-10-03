@@ -1,0 +1,13 @@
+name = "cocographera-api"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Dopo aver creato il namespace KV con:
+#   npx wrangler kv namespace create DATA
+# incolla qui sotto l'id che ti restituisce il comando.
+kv_namespaces = [
+  { binding = "DATA", id = "INCOLLA_QUI_ID_KV_NAMESPACE" }
+]
+
+# ADMIN_PASSWORD e TOKEN_SECRET NON vanno scritti qui: sono segreti,
+# si impostano con `wrangler secret put NOME` (vedi README_DEPLOY.md).
